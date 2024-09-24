@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/** { border: 1px solid red; }*/
+
+/* General CSS */
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+/* Header & Hero CSS */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #1F2937;
+    padding: 16px;
+}
+
+/* Header CSS */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1024px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 24px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EBBA;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+/* Hero CSS */
+.hero {
+    display: flex;
+    width: 1024px;
+    margin-top: 124px;
+    margin-bottom: 124px;
+}
+
+/* Hero main content CSS*/
+.content {
+    width: 50%;
+}
+
+.main-text {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #E5E7EBBA;
+    width: 90%;
+}
+
+button {
+    border-radius: 8px;
+    border: none;
+    background: #3882F6;
+    color: #F9FAF8;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 16px;
+}
+
+/* Hero image CSS*/
+.placeholder-image {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    background: dimgray;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+
+
