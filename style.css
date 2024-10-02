@@ -149,4 +149,12 @@ button {
     color: #1F2937;
 }
 
+.quote-author {
+    display: flex;
+    width: 750px;
+    justify-content: flex-end;
+    font-size: 20px;
+    font-weight: 900;
+}
+
 /*TODO: Try hanging margin between quote and info from 128px to 64px, change from both info and from quote (top and bottom)*/
