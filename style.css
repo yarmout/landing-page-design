@@ -157,4 +157,42 @@ button {
     font-weight: 900;
 }
 
-/*TODO: Try hanging margin between quote and info from 128px to 64px, change from both info and from quote (top and bottom)*/
+/* Call to action CSS */
+.call-to-action-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0 100px 0;
+}
+
+.call-to-action {
+    display: flex;
+    width: 1024px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 52px 24px;
+    border-radius: 8px;
+    background:  #3882F6;
+}
+
+.call-to-action-text {
+    margin-left: 100px;
+}
+
+.call-to-action-sign-up {
+    margin: 0 100px 0 0;
+    border: 2px solid #F9FAF8;
+
+}
+
+.call-to-action-header {
+    margin: 0;
+    padding: 0;
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.call-to-action-subtext {
+    color: #E5E7EB;
+}
+
