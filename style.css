@@ -196,3 +196,16 @@ button {
     color: #E5E7EB;
 }
 
+
+
+/* Footer styling */
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    color: #E5E7EB;
+    background: #1F2937;
+    font-size: 18px
+}
