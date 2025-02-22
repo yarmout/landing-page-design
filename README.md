@@ -21,12 +21,12 @@ To view and modify this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/portfolio-landing-page.git
+   git clone <repository-link>
    ```
 
 2. **Navigate into the project directory**:
    ```bash
-   cd portfolio-landing-page
+   cd <project-folder>
    ```
 
 3. **Open the `index.html` file in your browser**:
