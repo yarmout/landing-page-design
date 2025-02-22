@@ -1,7 +1,7 @@
 
 # Portfolio Landing Page
 
-A responsive and sleek landing page. This project focuses on clean, user-friendly design, and is built with HTML and CSS.
+A modern landing page built with HTML and CSS, this project focuses on clean, user-friendly design.
 
 ## Preview
 You can view the live demo of this project here:  
