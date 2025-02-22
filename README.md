@@ -41,4 +41,4 @@ To view and modify this project locally, follow these steps:
 
 ## Acknowledgments
 
-- Thanks to [The Odin Project](https://www.theodinproject.com) for providing the design for this landing page.
+- Thanks to [The Odin Project](https://www.theodinproject.com) for providing the design concept for this landing page.
