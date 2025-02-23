@@ -1,5 +1,5 @@
 
-# Portfolio Landing Page
+# Landing Page Design
 
 A modern landing page built with HTML and CSS, this project focuses on clean, user-friendly design.
 
